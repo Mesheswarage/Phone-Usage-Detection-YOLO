@@ -1,9 +1,9 @@
 # Phone-Usage-Detection-YOLO
-This project detects Phone Usage By utilizing keypoints-based pose estimation, the project identifies nuanced patterns that suggest phone engagement. The system employs 'yolov8n-pose' pose estimation model to pinpoint keypoints on the human body, which enables the calculation of angles, distances, and positions for accurate phone usage detection. 
+This project detects Phone Usage By utilizing keypoints-based pose estimation, the project identifies patterns that suggest phone engagement. The system employs 'yolov8n-pose' pose estimation model to pinpoint keypoints on the human body, which enables the calculation of angles, distances, and positions for accurate phone usage detection. 
 
 Key Features:
 
-Detects phone usage through an intricate analysis of head and hand orientations.
+Detects phone usage through an analysis of head and hand orientations.
 
 Incorporates hand angles, hand distance, and wrist position for enhanced accuracy.
 
